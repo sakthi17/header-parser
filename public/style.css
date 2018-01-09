@@ -1,0 +1,29 @@
+/* styles */
+/* called by your view template */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 25px;
+  background-color: #ECF0F1;
+}
+
+.center{
+  text-align: center; 
+}
+
+h3{
+  color: rgba(0,0,0,0.7);
+}
+
+h4,h5,h6{
+ color : rgba(0,0,0,0.5); 
+} 
+
+body > div{
+   padding: 0px 40px;  
+}
+
+.bold{
+   font-weight: bold; 
+}
+
